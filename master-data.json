@@ -1,0 +1,236 @@
+{
+  "appversion": "1.0",
+  "islamabad_image": "https://mvslim.com/wp-content/uploads/2017/08/the-shah-faisal-mosque-islamabad-80985.jpg",
+  "karachi_image": "https://imagevars.gulfnews.com/2020/03/24/Karachi-at-night--Shutterstock_1710bee7f8c_large.jpg",
+  "lahore_image": "https://i.pinimg.com/736x/79/b7/77/79b777f0d45adba106b174e19b887aa6.jpg",
+  "rawalpindi_image": "https://pakiholic.com/wp-content/uploads/2017/06/A-Wonderful-Aerial-View-of-Rawalpindi-Cricket-Stadium.jpg",
+  "others_image": "https://i.pinimg.com/originals/0d/a3/cc/0da3cc474a3a11a8939a7f014b04a707.jpg",
+  "featured_projects": [
+    {
+      "apartmentID": "IS63893PK",
+      "apartmentType": "rent",
+      "apartmentName": "Margla ista",
+      "apartmentLocation": "G-11/2, Islamabad",
+      "apartmentAddress": "Shah Faisal Ave, E-8, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+      "apartmentCity": "Islamabad",
+      "apartmentPrice": "Rs 12.4 Lac",
+      "apartmentDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec quam sagittis, placerat nibh sit amet, commodo libero. Pellentesque fermentum tincidunt erat, nec ultricies nibh convallis non. Pellentesque in pellentesque justo. Donec condimentum enim mauris, vel blandit turpis consectetur non.",
+      "apartmentAreaSqft": "614",
+      "apartmentBathrooms": "3",
+      "apartmentBedrooms": "2",
+      "apartmentFeaturedImage": "https://apartmentfinder.pk/rayyan/images/ralawalpinfi.jpg",
+      "apartmentAvailablity": "Ready",
+      "apartmentStatus": "Unfurnished",
+      "apartmentAmenities": "Soccer Club, Swimming Poo, Laundry Area, Free-Parking, Gym",
+      "apartmentLandmark": "Near Rawal Lake",
+      "apartmentConfiguration": "2 Bath, 3 Rooms, 1 Dinning Area, 1 Sitting/TV Lounge",
+      "apartmentLat": "24.677297",
+      "apartmentLng": "46.744953",
+      "apartmentImages": [
+        {
+          "imageSource": "https://i.pinimg.com/originals/0d/a3/cc/0da3cc474a3a11a8939a7f014b04a707.jpg"
+        },
+        {
+          "imageSource": "https://i.pinimg.com/736x/79/b7/77/79b777f0d45adba106b174e19b887aa6.jpg"
+        },
+        {
+          "imageSource": "https://imagevars.gulfnews.com/2020/03/24/Karachi-at-night--Shutterstock_1710bee7f8c_large.jpg"
+        }
+      ]
+    }
+  ],
+  "apartments": [
+    {
+      "apartmentID": "IS63893PK",
+      "apartmentType": "rent",
+      "apartmentName": "Margla ista",
+      "apartmentLocation": "G-11/2, Islamabad",
+      "apartmentAddress": "Shah Faisal Ave, E-8, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+      "apartmentCity": "Islamabad",
+      "apartmentPrice": "Rs 12.4 Lac",
+      "apartmentDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec quam sagittis, placerat nibh sit amet, commodo libero. Pellentesque fermentum tincidunt erat, nec ultricies nibh convallis non. Pellentesque in pellentesque justo. Donec condimentum enim mauris, vel blandit turpis consectetur non.",
+      "apartmentAreaSqft": "614",
+      "apartmentBathrooms": "3",
+      "apartmentBedrooms": "2",
+      "apartmentFeaturedImage": "https://apartmentfinder.pk/rayyan/images/ralawalpinfi.jpg",
+      "apartmentAvailablity": "Ready",
+      "apartmentStatus": "Unfurnished",
+      "apartmentAmenities": "Soccer Club, Swimming Poo, Laundry Area, Free-Parking, Gym",
+      "apartmentLandmark": "Near Rawal Lake",
+      "apartmentConfiguration": "2 Bath, 3 Rooms, 1 Dinning Area, 1 Sitting/TV Lounge",
+      "apartmentLat": "24.677297",
+      "apartmentLng": "46.744953",
+      "apartmentImages": [
+        {
+          "imageSource": "https://i.pinimg.com/originals/0d/a3/cc/0da3cc474a3a11a8939a7f014b04a707.jpg"
+        },
+        {
+          "imageSource": "https://i.pinimg.com/736x/79/b7/77/79b777f0d45adba106b174e19b887aa6.jpg"
+        },
+        {
+          "imageSource": "https://imagevars.gulfnews.com/2020/03/24/Karachi-at-night--Shutterstock_1710bee7f8c_large.jpg"
+        }
+      ]
+    },
+    {
+      "apartmentID": "IS63893PK",
+      "apartmentType": "rent",
+      "apartmentName": "Margla ista",
+      "apartmentLocation": "G-11/2, Islamabad",
+      "apartmentAddress": "Shah Faisal Ave, E-8, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+      "apartmentCity": "Islamabad",
+      "apartmentPrice": "Rs 12.4 Lac",
+      "apartmentDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec quam sagittis, placerat nibh sit amet, commodo libero. Pellentesque fermentum tincidunt erat, nec ultricies nibh convallis non. Pellentesque in pellentesque justo. Donec condimentum enim mauris, vel blandit turpis consectetur non.",
+      "apartmentAreaSqft": "614",
+      "apartmentBathrooms": "3",
+      "apartmentBedrooms": "2",
+      "apartmentFeaturedImage": "https://apartmentfinder.pk/rayyan/images/ralawalpinfi.jpg",
+      "apartmentAvailablity": "Ready",
+      "apartmentStatus": "Unfurnished",
+      "apartmentAmenities": "Soccer Club, Swimming Poo, Laundry Area, Free-Parking, Gym",
+      "apartmentLandmark": "Near Rawal Lake",
+      "apartmentConfiguration": "2 Bath, 3 Rooms, 1 Dinning Area, 1 Sitting/TV Lounge",
+      "apartmentLat": "24.677297",
+      "apartmentLng": "46.744953",
+      "apartmentImages": [
+        {
+          "imageSource": "https://i.pinimg.com/originals/0d/a3/cc/0da3cc474a3a11a8939a7f014b04a707.jpg"
+        },
+        {
+          "imageSource": "https://i.pinimg.com/736x/79/b7/77/79b777f0d45adba106b174e19b887aa6.jpg"
+        },
+        {
+          "imageSource": "https://imagevars.gulfnews.com/2020/03/24/Karachi-at-night--Shutterstock_1710bee7f8c_large.jpg"
+        }
+      ]
+    },
+    {
+      "apartmentID": "IS63893PK",
+      "apartmentType": "rent",
+      "apartmentName": "Margla ista",
+      "apartmentLocation": "G-11/2, Islamabad",
+      "apartmentAddress": "Shah Faisal Ave, E-8, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+      "apartmentCity": "Islamabad",
+      "apartmentPrice": "Rs 12.4 Lac",
+      "apartmentDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec quam sagittis, placerat nibh sit amet, commodo libero. Pellentesque fermentum tincidunt erat, nec ultricies nibh convallis non. Pellentesque in pellentesque justo. Donec condimentum enim mauris, vel blandit turpis consectetur non.",
+      "apartmentAreaSqft": "614",
+      "apartmentBathrooms": "3",
+      "apartmentBedrooms": "2",
+      "apartmentFeaturedImage": "https://apartmentfinder.pk/rayyan/images/ralawalpinfi.jpg",
+      "apartmentAvailablity": "Ready",
+      "apartmentStatus": "Unfurnished",
+      "apartmentAmenities": "Soccer Club, Swimming Poo, Laundry Area, Free-Parking, Gym",
+      "apartmentLandmark": "Near Rawal Lake",
+      "apartmentConfiguration": "2 Bath, 3 Rooms, 1 Dinning Area, 1 Sitting/TV Lounge",
+      "apartmentLat": "24.677297",
+      "apartmentLng": "46.744953",
+      "apartmentImages": [
+        {
+          "imageSource": "https://i.pinimg.com/originals/0d/a3/cc/0da3cc474a3a11a8939a7f014b04a707.jpg"
+        },
+        {
+          "imageSource": "https://i.pinimg.com/736x/79/b7/77/79b777f0d45adba106b174e19b887aa6.jpg"
+        },
+        {
+          "imageSource": "https://imagevars.gulfnews.com/2020/03/24/Karachi-at-night--Shutterstock_1710bee7f8c_large.jpg"
+        }
+      ]
+    },
+    {
+      "apartmentID": "IS63893PK",
+      "apartmentType": "rent",
+      "apartmentName": "Margla ista",
+      "apartmentLocation": "G-11/2, Islamabad",
+      "apartmentAddress": "Shah Faisal Ave, E-8, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+      "apartmentCity": "Islamabad",
+      "apartmentPrice": "Rs 12.4 Lac",
+      "apartmentDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec quam sagittis, placerat nibh sit amet, commodo libero. Pellentesque fermentum tincidunt erat, nec ultricies nibh convallis non. Pellentesque in pellentesque justo. Donec condimentum enim mauris, vel blandit turpis consectetur non.",
+      "apartmentAreaSqft": "614",
+      "apartmentBathrooms": "3",
+      "apartmentBedrooms": "2",
+      "apartmentFeaturedImage": "https://apartmentfinder.pk/rayyan/images/ralawalpinfi.jpg",
+      "apartmentAvailablity": "Ready",
+      "apartmentStatus": "Unfurnished",
+      "apartmentAmenities": "Soccer Club, Swimming Poo, Laundry Area, Free-Parking, Gym",
+      "apartmentLandmark": "Near Rawal Lake",
+      "apartmentConfiguration": "2 Bath, 3 Rooms, 1 Dinning Area, 1 Sitting/TV Lounge",
+      "apartmentLat": "24.677297",
+      "apartmentLng": "46.744953",
+      "apartmentImages": [
+        {
+          "imageSource": "https://i.pinimg.com/originals/0d/a3/cc/0da3cc474a3a11a8939a7f014b04a707.jpg"
+        },
+        {
+          "imageSource": "https://i.pinimg.com/736x/79/b7/77/79b777f0d45adba106b174e19b887aa6.jpg"
+        },
+        {
+          "imageSource": "https://imagevars.gulfnews.com/2020/03/24/Karachi-at-night--Shutterstock_1710bee7f8c_large.jpg"
+        }
+      ]
+    },
+    {
+      "apartmentID": "IS63893PK",
+      "apartmentType": "rent",
+      "apartmentName": "Margla ista",
+      "apartmentLocation": "G-11/2, Islamabad",
+      "apartmentAddress": "Shah Faisal Ave, E-8, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+      "apartmentCity": "Islamabad",
+      "apartmentPrice": "Rs 12.4 Lac",
+      "apartmentDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec quam sagittis, placerat nibh sit amet, commodo libero. Pellentesque fermentum tincidunt erat, nec ultricies nibh convallis non. Pellentesque in pellentesque justo. Donec condimentum enim mauris, vel blandit turpis consectetur non.",
+      "apartmentAreaSqft": "614",
+      "apartmentBathrooms": "3",
+      "apartmentBedrooms": "2",
+      "apartmentFeaturedImage": "https://apartmentfinder.pk/rayyan/images/ralawalpinfi.jpg",
+      "apartmentAvailablity": "Ready",
+      "apartmentStatus": "Unfurnished",
+      "apartmentAmenities": "Soccer Club, Swimming Poo, Laundry Area, Free-Parking, Gym",
+      "apartmentLandmark": "Near Rawal Lake",
+      "apartmentConfiguration": "2 Bath, 3 Rooms, 1 Dinning Area, 1 Sitting/TV Lounge",
+      "apartmentLat": "24.677297",
+      "apartmentLng": "46.744953",
+      "apartmentImages": [
+        {
+          "imageSource": "https://i.pinimg.com/originals/0d/a3/cc/0da3cc474a3a11a8939a7f014b04a707.jpg"
+        },
+        {
+          "imageSource": "https://i.pinimg.com/736x/79/b7/77/79b777f0d45adba106b174e19b887aa6.jpg"
+        },
+        {
+          "imageSource": "https://imagevars.gulfnews.com/2020/03/24/Karachi-at-night--Shutterstock_1710bee7f8c_large.jpg"
+        }
+      ]
+    },
+    {
+      "apartmentID": "IS63893PK",
+      "apartmentType": "rent",
+      "apartmentName": "Margla ista",
+      "apartmentLocation": "G-11/2, Islamabad",
+      "apartmentAddress": "Shah Faisal Ave, E-8, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+      "apartmentCity": "Islamabad",
+      "apartmentPrice": "Rs 12.4 Lac",
+      "apartmentDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec quam sagittis, placerat nibh sit amet, commodo libero. Pellentesque fermentum tincidunt erat, nec ultricies nibh convallis non. Pellentesque in pellentesque justo. Donec condimentum enim mauris, vel blandit turpis consectetur non.",
+      "apartmentAreaSqft": "614",
+      "apartmentBathrooms": "3",
+      "apartmentBedrooms": "2",
+      "apartmentFeaturedImage": "https://apartmentfinder.pk/rayyan/images/ralawalpinfi.jpg",
+      "apartmentAvailablity": "Ready",
+      "apartmentStatus": "Unfurnished",
+      "apartmentAmenities": "Soccer Club, Swimming Poo, Laundry Area, Free-Parking, Gym",
+      "apartmentLandmark": "Near Rawal Lake",
+      "apartmentConfiguration": "2 Bath, 3 Rooms, 1 Dinning Area, 1 Sitting/TV Lounge",
+      "apartmentLat": "24.677297",
+      "apartmentLng": "46.744953",
+      "apartmentImages": [
+        {
+          "imageSource": "https://i.pinimg.com/originals/0d/a3/cc/0da3cc474a3a11a8939a7f014b04a707.jpg"
+        },
+        {
+          "imageSource": "https://i.pinimg.com/736x/79/b7/77/79b777f0d45adba106b174e19b887aa6.jpg"
+        },
+        {
+          "imageSource": "https://imagevars.gulfnews.com/2020/03/24/Karachi-at-night--Shutterstock_1710bee7f8c_large.jpg"
+        }
+      ]
+    }
+  ]
+}
